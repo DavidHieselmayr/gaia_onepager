@@ -37,7 +37,7 @@
   top: 85%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  transition: background-color, color, padding;
+  transition: background-color, color, padding, font-size, width;
   transition-delay: 0.2s;
   transition-duration: 1s;
   transition-timing-function: ease-in-out;
