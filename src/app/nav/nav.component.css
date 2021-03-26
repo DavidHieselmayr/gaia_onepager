@@ -1,0 +1,27 @@
+#navbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2a2b2f;
+  //flex-wrap: wrap;
+  max-height: 18vh;
+  min-height: 13vh;
+}
+
+#navbox a {
+  text-decoration: none;
+  color: white;
+  font-family: standardfontBold;
+  font-size: 1.5em;
+}
+
+#logo {
+  margin-left:7px;
+}
+#entstehung{
+  margin-right: 30px;
+}
+
+#logoimg {
+  padding: 7px 0px 7px 0px;
+}

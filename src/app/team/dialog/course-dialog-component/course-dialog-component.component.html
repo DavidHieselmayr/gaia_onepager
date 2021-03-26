@@ -1,0 +1,26 @@
+<div id="userdescriptionBox">
+  <div id="userdescriptionBoxContent">
+    <img src={{data.user.imgurl}} id="datauserimg">
+    <div id="userdescriptionBoxContentNameBeschreibung">
+      <p>Name {{data.user.name}}</p>
+      <p>Beschreibung {{data.user.beschreibung}}</p>
+    </div>
+  </div>
+  <mat-dialog-actions>
+    <button class="mat-raised-button" (click)="close()">Close</button>
+    <!--<button class="mat-raised-button mat-primary" (click)="save()">Save</button>-->
+  </mat-dialog-actions>
+
+</div>
+<!--
+<mat-dialog-content [formGroup]="form">
+
+  <mat-form-field>
+    <input matInput
+           placeholder="Course Description"
+           formControlName="description">
+  </mat-form-field>
+
+</mat-dialog-content>
+-->
+

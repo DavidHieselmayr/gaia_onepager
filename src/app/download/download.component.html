@@ -1,0 +1,50 @@
+<div id="downloadContainer">
+  <div id="downloadContainerHeadline">
+    <h1>Now Available!</h1>
+  </div>
+  <div id="downloadContainerContent">
+    <div id="downloadContainerContentLeft">
+      <div id="selectPlatform">
+        <form>
+          <h4>Select your Platform</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>Select your Platform</mat-label>
+            <mat-select [(ngModel)]="selectedValue" name="selectedplatform">
+              <mat-option *ngFor="let platform of selectedPlatform" [value]="platform.value">
+                {{platform.viewValue}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </form>
+
+      </div>
+
+      <div id="selectVision">
+        <h4>Select your Version</h4>
+        <section class="example-section">
+          <mat-checkbox class="example-margin">Digital</mat-checkbox>
+        </section>
+      </div>
+
+      <div id="selectEdition">
+        <h4>Select your Edition</h4>
+        <mat-form-field appearance="fill">
+          <mat-label>Select your Platform</mat-label>
+          <mat-select [(ngModel)]="selectedValue" name="selectedEdition">
+            <mat-option *ngFor="let edition of selectedEdition" [value]="edition.value">
+              {{edition.viewValue}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
+
+      <div id="buyButton">
+        <!--<button mat-raised-button><a href="https://wetransfer.com/downloads/164397915f51e07b4c83e1635b4dddef20210316095604/c5796a" id="buy">Buy</a></button>-->
+        <button mat-raised-button><a href="http://192.168.0.17:8000/source/Gaia.zip" id="buy">Buy</a></button>
+      </div>
+
+    </div>
+    <div id="downloadContainerContentRight">
+    </div>
+  </div>
+</div>
