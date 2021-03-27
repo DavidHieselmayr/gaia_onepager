@@ -1,57 +1,57 @@
 <div id="medienBox">
-  <h1 id="headline">Medien</h1>
-  <div id="navMedien">
+    <h1 id="headline">Medien</h1>
+    <div id="navMedien">
 
-    <p (click)="setMediaTopic(0)">Screenshots</p>
-    <p (click)="setMediaTopic(1)">Videos</p>
-  </div>
-  <div class="medienBoxContent" *ngIf="mediatopic === 0">
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
+        <p (click)="setMediaTopic(0)">Screenshots</p>
+        <p (click)="setMediaTopic(1)">Videos</p>
     </div>
+    <div class="medienBoxContent" *ngIf="mediatopic === 0">
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
 
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
-    </div>
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
 
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
-    </div>
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
 
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
-    </div>
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
 
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
-    </div>
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
 
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
-    </div>
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
 
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
+        <div class="medienBoxContentItem">
+            <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+            <h2>Test</h2>
+        </div>
     </div>
-  </div>
-  <div class="medienBoxContent" *ngIf="mediatopic === 1">
-    <div class="medienBoxContentItem">
-      <video controls>
-        <source src="http://192.168.0.17:8000/source/2021_4bhitm_Gaia_Video.mp4" type="video/mp4">
-      </video>
+    <div class="medienBoxContent" *ngIf="mediatopic === 1">
+        <div class="medienBoxContentItem">
+            <video controls>
+                <source src="http://192.168.0.17:8000/source/2021_4bhitm_Gaia_Video.mp4" type="video/mp4">
+            </video>
+        </div>
+        <!--
+            <div class="medienBoxContentItem">
+              <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
+              <h2>Test</h2>
+            </div>
+        -->
     </div>
-<!--
-    <div class="medienBoxContentItem">
-      <img src="assets/images/placeholder2.webp" (click)="openDialog('assets/images/placeholder2.webp')">
-      <h2>Test</h2>
-    </div>
--->
-  </div>
 </div>
