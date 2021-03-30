@@ -13,7 +13,6 @@
 
 #entstehungContainerContentLeft {
     font-size: 2em;
-    font-family: standardfontBold;
 }
 
 #entstehungContainerContentRight {
@@ -23,6 +22,11 @@
 
 #entstehungContainerContentRightText {
     font-size: 1.7em;
-    font-family: standardfontBold;
+}
 
+#entstehungContainerContentRightText a {
+    text-decoration: none;
+    color: gray;
+    font-style: initial;
+    font-size: 1.4em;
 }

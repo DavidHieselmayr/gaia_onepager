@@ -28,8 +28,8 @@ export class MedienComponent implements OnInit {
 
         dialogConfig.disableClose = false;
         dialogConfig.autoFocus = true;
-        dialogConfig.height = '600px';
-        dialogConfig.width = '800px';
+        dialogConfig.height = '800px';
+        dialogConfig.width = '1000px';
 
         dialogConfig.data = {
             imgurl: imgurlstring

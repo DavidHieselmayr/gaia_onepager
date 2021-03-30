@@ -42,6 +42,8 @@ body {
     flex-wrap: wrap;
     background-color: yellow;
     justify-content: center;
+    min-height: 80%;
+    width: 100%;
 }
 
 .medienBoxContent h2 {
@@ -49,14 +51,19 @@ body {
 }
 
 .medienBoxContentItem {
-    background-color: gray;
+    background-color: tan;
     display: flex;
     flex-direction: column;
     margin: 5px;
 }
+.medienBoxContentItem iframe{
+    width:  1920px;
+    height: 1080px;
+
+}
 
 .medienBoxContentItem img {
-    width: 500px;
+    width: 800px;
 }
 
 
