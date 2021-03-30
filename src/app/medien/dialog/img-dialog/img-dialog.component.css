@@ -1,11 +1,11 @@
 #imgdialogContainer {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  align-items: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
 }
 
 #imgdialogContainerContentImg {
-  height: auto;
-  width: 100%;
+    height: auto;
+    width: 100%;
 }

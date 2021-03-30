@@ -1,62 +1,62 @@
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 html, body, div, img {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
 }
 
 body {
-  line-height: 1;
+    line-height: 1;
 }
 
 #headline, #navMedien p {
-  font-family: standardfontBold;
+    font-family: standardfontBold;
 }
 
 #medienBox {
-  display: flex;
-  flex-direction: column;
-  background-color: gray;
-  min-height: 100%;
-  width: 100%;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    min-height: 100%;
+    width: 100%;
+    align-items: center;
 }
 
 #navMedien {
-  background-color: yellowgreen;
-  display: flex;
-  min-width: 20%;
-  justify-content: space-evenly;
+    background-color: yellowgreen;
+    display: flex;
+    min-width: 20%;
+    justify-content: space-evenly;
 }
 
-#navMedien p{
-  font-size: 1.3em;
+#navMedien p {
+    font-size: 1.3em;
 }
 
 .medienBoxContent {
-  display: flex;
-  flex-wrap: wrap;
-  background-color: yellow;
-  justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+    justify-content: center;
 }
 
 .medienBoxContent h2 {
-  font-family: standardfont;
+    font-family: standardfont;
 }
 
 .medienBoxContentItem {
-  background-color: gray;
-  display: flex;
-  flex-direction: column;
-  margin: 5px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
 }
 
 .medienBoxContentItem img {
-  width: 500px;
+    width: 500px;
 }
 
 
