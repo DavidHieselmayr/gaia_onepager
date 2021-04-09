@@ -1,8 +1,8 @@
 #trailerBox {
     max-height: 92vh;
-    min-height: 87vh;
+    min-height: 100%;
     width: 100%;
-    background-image: url('../../assets/images/placeholder1.jpg');
+    background-image: url('../../assets/images/cover.JPG');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -42,6 +42,11 @@
     transition-duration: 1s;
     transition-timing-function: ease-in-out;
     padding: 5px;
+}
+
+#watchtrailer a {
+    text-decoration: none;
+    color: gray;
 }
 
 #watchtrailer:hover {

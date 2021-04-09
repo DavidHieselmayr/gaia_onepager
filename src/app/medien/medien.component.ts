@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {MatDialog, MatDialogConfig} from '@angular/material/dialog';
 import {ImgDialogComponent} from './dialog/img-dialog/img-dialog.component';
+import {faImages, faLandmark, faPhotoVideo, faVideo} from '@fortawesome/free-solid-svg-icons';
 
 interface Img {
     imgurl: string;
@@ -12,7 +13,7 @@ interface Img {
     styleUrls: ['./medien.component.css']
 })
 export class MedienComponent implements OnInit {
-
+    fontAwesome = [faPhotoVideo, faImages, faVideo];
     mediatopic: number;
 
     constructor(private dialog: MatDialog) {
@@ -43,7 +44,7 @@ export class MedienComponent implements OnInit {
         );
     }
 
-    setMediaTopic(mediatopic: number): void {
+    setMediaTopic(mediatopic: number): void { // 0 screenshots , 1 video
         console.log(mediatopic);
         this.mediatopic = mediatopic;
     }
