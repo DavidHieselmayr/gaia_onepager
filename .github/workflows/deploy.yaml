@@ -42,4 +42,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           BRANCH: page
-          FOLDER: dist/dictate
+          FOLDER: dist/gaia-promotion
