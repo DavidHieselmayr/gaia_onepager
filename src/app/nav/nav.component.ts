@@ -1,4 +1,5 @@
 import {Component, OnInit} from '@angular/core';
+import {MedienComponent} from '../medien/medien.component';
 
 @Component({
     selector: 'app-nav',

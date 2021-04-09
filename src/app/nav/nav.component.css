@@ -5,7 +5,10 @@
   background-color: #2a2b2f;
   //flex-wrap: wrap;
   max-height: 18vh;
-  min-height: 13vh;
+  min-height: 13%;
+  min-width: 100%;
+  position: fixed;
+  z-index: 3;
 }
 
 #navbox a {

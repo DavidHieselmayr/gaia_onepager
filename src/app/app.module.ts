@@ -50,7 +50,7 @@ import {MatGridListModule} from '@angular/material/grid-list';
         MatInputModule,
         MatGridListModule
     ],
-    providers: [],
+    providers: [MedienComponent],
     bootstrap: [AppComponent]
 })
 export class AppModule {

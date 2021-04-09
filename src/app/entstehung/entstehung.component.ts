@@ -1,4 +1,5 @@
 import {Component, OnInit} from '@angular/core';
+import {faLandmark} from '@fortawesome/free-solid-svg-icons';
 
 @Component({
     selector: 'app-entstehung',
@@ -6,6 +7,8 @@ import {Component, OnInit} from '@angular/core';
     styleUrls: ['./entstehung.component.css']
 })
 export class EntstehungComponent implements OnInit {
+    fontAwesome = [faLandmark];
+
 
     constructor() {
     }
