@@ -4,13 +4,13 @@ import {NavComponent} from './nav/nav.component';
 import {TrailerComponent} from './trailer/trailer.component';
 
 const routes: Routes = [
-  {path: '**', component: NavComponent},
-  {path: 'trailer', component: TrailerComponent}
+    {path: '**', component: NavComponent},
+    {path: 'trailer', component: TrailerComponent}
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+    imports: [RouterModule.forRoot(routes)],
+    exports: [RouterModule]
 })
 export class AppRoutingModule {
 }

@@ -17,39 +17,41 @@ import {EntstehungComponent} from './entstehung/entstehung.component';
 import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
 import {CourseDialogComponentComponent} from './team/dialog/course-dialog-component/course-dialog-component.component';
 import {MatFormFieldModule} from '@angular/material/form-field';
-import {MatInputModule} from "@angular/material/input";
-import { MedienComponent } from './medien/medien.component';
-import { ImgDialogComponent } from './medien/dialog/img-dialog/img-dialog.component';
+import {MatInputModule} from '@angular/material/input';
+import {MedienComponent} from './medien/medien.component';
+import {ImgDialogComponent} from './medien/dialog/img-dialog/img-dialog.component';
+import {MatGridListModule} from '@angular/material/grid-list';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    NavComponent,
-    TrailerComponent,
-    DownloadComponent,
-    StoryComponent,
-    TeamComponent,
-    EntstehungComponent,
-    CourseDialogComponentComponent,
-    MedienComponent,
-    ImgDialogComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    FormsModule,
-    ReactiveFormsModule,
-    MatButtonModule,
-    BrowserAnimationsModule,
-    MatDialogModule,
-    MatSelectModule,
-    MatCheckboxModule,
-    FontAwesomeModule,
-    MatFormFieldModule,
-    MatInputModule
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+    declarations: [
+        AppComponent,
+        NavComponent,
+        TrailerComponent,
+        DownloadComponent,
+        StoryComponent,
+        TeamComponent,
+        EntstehungComponent,
+        CourseDialogComponentComponent,
+        MedienComponent,
+        ImgDialogComponent
+    ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        FormsModule,
+        ReactiveFormsModule,
+        MatButtonModule,
+        BrowserAnimationsModule,
+        MatDialogModule,
+        MatSelectModule,
+        MatCheckboxModule,
+        FontAwesomeModule,
+        MatFormFieldModule,
+        MatInputModule,
+        MatGridListModule
+    ],
+    providers: [MedienComponent],
+    bootstrap: [AppComponent]
 })
 export class AppModule {
 }
