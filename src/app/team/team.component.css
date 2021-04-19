@@ -10,7 +10,10 @@
 .teammember {
     height: 50%;
     width: 20%;
+    margin: 10px 0px 10px 0px;
     background-color: gray;
+    flex: 1 1  500px;
+    flex: 0 1 350px;
 }
 
 .teammemberprofil {
