@@ -112,121 +112,15 @@
       StoryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
         type: StoryComponent,
         selectors: [["app-story"]],
-        decls: 33,
+        decls: 1,
         vars: 0,
-        consts: [["id", "storyContainer"], [1, "storyContainerContent"], [1, "storyContainerContentImg"], ["src", "assets/images/placeholder/images/Portrait_annete.webp"], [1, "storyContainerContentText"], [1, "storyContainerContentImgRight"]],
+        consts: [["id", "storyContainer"]],
         template: function StoryComponent_Template(rf, ctx) {
           if (rf & 1) {
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 3);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 4);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h1");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Der Beginn eines neuen Zeitalters");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "p");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Willkommen im 19. Jahrhundert, einer Zeit der Industrialisierung, Diplomatie und der Entdeckungen. Diese \xC4ra ist reich an technologischen Innovationen, Verschw\xF6rungen und st\xE4ndig wechselnder Loyalit\xE4t und bietet den perfekten Schauplatz f\xFCr ein klassisches Anno-Spiel. Anno 1800 gibt Spielern reichlich Gelegenheit, ihre F\xE4higkeiten als Machthaber unter Beweis zu stellen, indem sie riesige Metropolen errichten, effiziente Logistiknetzwerke planen, einen exotischen neuen Kontinent besiedeln, Expeditionen um die Welt in Auftrag geben und ihre Gegner durch Diplomatie, Handel oder Krieg dominieren.");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 1);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 4);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "h1");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Der Beginn eines neuen Zeitalters");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "p");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Willkommen im 19. Jahrhundert, einer Zeit der Industrialisierung, Diplomatie und der Entdeckungen. Diese \xC4ra ist reich an technologischen Innovationen, Verschw\xF6rungen und st\xE4ndig wechselnder Loyalit\xE4t und bietet den perfekten Schauplatz f\xFCr ein klassisches Anno-Spiel. Anno 1800 gibt Spielern reichlich Gelegenheit, ihre F\xE4higkeiten als Machthaber unter Beweis zu stellen, indem sie riesige Metropolen errichten, effiziente Logistiknetzwerke planen, einen exotischen neuen Kontinent besiedeln, Expeditionen um die Welt in Auftrag geben und ihre Gegner durch Diplomatie, Handel oder Krieg dominieren.");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 5);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "img", 3);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "div", 1);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 2);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "img", 3);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 4);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "h1");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Der Beginn eines neuen Zeitalters");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "p");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "Willkommen im 19. Jahrhundert, einer Zeit der Industrialisierung, Diplomatie und der Entdeckungen. Diese \xC4ra ist reich an technologischen Innovationen, Verschw\xF6rungen und st\xE4ndig wechselnder Loyalit\xE4t und bietet den perfekten Schauplatz f\xFCr ein klassisches Anno-Spiel. Anno 1800 gibt Spielern reichlich Gelegenheit, ihre F\xE4higkeiten als Machthaber unter Beweis zu stellen, indem sie riesige Metropolen errichten, effiziente Logistiknetzwerke planen, einen exotischen neuen Kontinent besiedeln, Expeditionen um die Welt in Auftrag geben und ihre Gegner durch Diplomatie, Handel oder Krieg dominieren.");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 1);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 4);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "h1");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, "Der Beginn eines neuen Zeitalters");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "p");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "Willkommen im 19. Jahrhundert, einer Zeit der Industrialisierung, Diplomatie und der Entdeckungen. Diese \xC4ra ist reich an technologischen Innovationen, Verschw\xF6rungen und st\xE4ndig wechselnder Loyalit\xE4t und bietet den perfekten Schauplatz f\xFCr ein klassisches Anno-Spiel. Anno 1800 gibt Spielern reichlich Gelegenheit, ihre F\xE4higkeiten als Machthaber unter Beweis zu stellen, indem sie riesige Metropolen errichten, effiziente Logistiknetzwerke planen, einen exotischen neuen Kontinent besiedeln, Expeditionen um die Welt in Auftrag geben und ihre Gegner durch Diplomatie, Handel oder Krieg dominieren.");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 5);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "img", 3);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "div", 0);
           }
         },
-        styles: ["#storyContainer[_ngcontent-%COMP%] {\r\n    max-height: 200%;\r\n    min-height: 100%;\r\n    width: 100%;\r\n    background-color: orange;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-self: center;\r\n    justify-content: space-evenly;\r\n}\r\n\r\n.storyContainerContent[_ngcontent-%COMP%] {\r\n    background-color: white;\r\n    min-height: 25%;\r\n    width: 100%;\r\n    display: flex;\r\n    flex-direction: row;\r\n    align-items: center;\r\n    justify-content: space-evenly;\r\n    padding-left: 20px;\r\n    padding-right: 50px;\r\n}\r\n\r\n.storyContainerContentImg[_ngcontent-%COMP%] {\r\n    min-width: 28%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: flex-start;\r\n    justify-content: flex-start;\r\n}\r\n\r\n.storyContainerContentImgRight[_ngcontent-%COMP%] {\r\n    min-width: 28%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: flex-end;\r\n    justify-content: flex-start;\r\n}\r\n\r\n.storyContainerContentText[_ngcontent-%COMP%] {\r\n    min-width: 70%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-evenly;\r\n    align-items: flex-start;\r\n}\r\n\r\n.storyContainerContentText[_ngcontent-%COMP%] {\r\n    font-family: standardfont;\r\n    font-size: 1.4em;\r\n    z-index: 2;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0b3J5LmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxnQkFBZ0I7SUFDaEIsZ0JBQWdCO0lBQ2hCLFdBQVc7SUFDWCx3QkFBd0I7SUFDeEIsYUFBYTtJQUNiLHNCQUFzQjtJQUN0QixrQkFBa0I7SUFDbEIsNkJBQTZCO0FBQ2pDOztBQUVBO0lBQ0ksdUJBQXVCO0lBQ3ZCLGVBQWU7SUFDZixXQUFXO0lBQ1gsYUFBYTtJQUNiLG1CQUFtQjtJQUNuQixtQkFBbUI7SUFDbkIsNkJBQTZCO0lBQzdCLGtCQUFrQjtJQUNsQixtQkFBbUI7QUFDdkI7O0FBRUE7SUFDSSxjQUFjO0lBQ2QsYUFBYTtJQUNiLHNCQUFzQjtJQUN0Qix1QkFBdUI7SUFDdkIsMkJBQTJCO0FBQy9COztBQUVBO0lBQ0ksY0FBYztJQUNkLGFBQWE7SUFDYixzQkFBc0I7SUFDdEIscUJBQXFCO0lBQ3JCLDJCQUEyQjtBQUMvQjs7QUFFQTtJQUNJLGNBQWM7SUFDZCxhQUFhO0lBQ2Isc0JBQXNCO0lBQ3RCLDZCQUE2QjtJQUM3Qix1QkFBdUI7QUFDM0I7O0FBRUE7SUFDSSx5QkFBeUI7SUFDekIsZ0JBQWdCO0lBQ2hCLFVBQVU7QUFDZCIsImZpbGUiOiJzdG9yeS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiI3N0b3J5Q29udGFpbmVyIHtcclxuICAgIG1heC1oZWlnaHQ6IDIwMCU7XHJcbiAgICBtaW4taGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBvcmFuZ2U7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICAgIGFsaWduLXNlbGY6IGNlbnRlcjtcclxuICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5O1xyXG59XHJcblxyXG4uc3RvcnlDb250YWluZXJDb250ZW50IHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xyXG4gICAgbWluLWhlaWdodDogMjUlO1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxleC1kaXJlY3Rpb246IHJvdztcclxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWV2ZW5seTtcclxuICAgIHBhZGRpbmctbGVmdDogMjBweDtcclxuICAgIHBhZGRpbmctcmlnaHQ6IDUwcHg7XHJcbn1cclxuXHJcbi5zdG9yeUNvbnRhaW5lckNvbnRlbnRJbWcge1xyXG4gICAgbWluLXdpZHRoOiAyOCU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICAgIGFsaWduLWl0ZW1zOiBmbGV4LXN0YXJ0O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBmbGV4LXN0YXJ0O1xyXG59XHJcblxyXG4uc3RvcnlDb250YWluZXJDb250ZW50SW1nUmlnaHQge1xyXG4gICAgbWluLXdpZHRoOiAyOCU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDtcclxuICAgIGp1c3RpZnktY29udGVudDogZmxleC1zdGFydDtcclxufVxyXG5cclxuLnN0b3J5Q29udGFpbmVyQ29udGVudFRleHQge1xyXG4gICAgbWluLXdpZHRoOiA3MCU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5O1xyXG4gICAgYWxpZ24taXRlbXM6IGZsZXgtc3RhcnQ7XHJcbn1cclxuXHJcbi5zdG9yeUNvbnRhaW5lckNvbnRlbnRUZXh0IHtcclxuICAgIGZvbnQtZmFtaWx5OiBzdGFuZGFyZGZvbnQ7XHJcbiAgICBmb250LXNpemU6IDEuNGVtO1xyXG4gICAgei1pbmRleDogMjtcclxufVxyXG4iXX0= */"]
+        styles: ["#storyContainer[_ngcontent-%COMP%] {\r\n    min-height: 100%;\r\n    width: 100%;\r\n    margin-top: 5%;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-self: center;\r\n    justify-content: space-evenly;\r\n    background-image: url('cover.png');\r\n    background-size: cover;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0b3J5LmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxnQkFBZ0I7SUFDaEIsV0FBVztJQUNYLGNBQWM7SUFDZCxhQUFhO0lBQ2Isc0JBQXNCO0lBQ3RCLGtCQUFrQjtJQUNsQiw2QkFBNkI7SUFDN0Isa0NBQXNEO0lBQ3RELHNCQUFzQjtJQUN0QiwyQkFBMkI7SUFDM0IsNEJBQTRCO0FBQ2hDIiwiZmlsZSI6InN0b3J5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjc3RvcnlDb250YWluZXIge1xyXG4gICAgbWluLWhlaWdodDogMTAwJTtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgbWFyZ2luLXRvcDogNSU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICAgIGFsaWduLXNlbGY6IGNlbnRlcjtcclxuICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5O1xyXG4gICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiLi4vLi4vYXNzZXRzL2ltYWdlcy9jb3Zlci5wbmdcIik7XHJcbiAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xyXG4gICAgYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyO1xyXG4gICAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcclxufVxyXG5cclxuIl19 */"]
       });
       /***/
     },
@@ -727,7 +621,7 @@
           }
         },
         directives: [_angular_material_button__WEBPACK_IMPORTED_MODULE_3__["MatButton"]],
-        styles: ["#trailerBox[_ngcontent-%COMP%] {\r\n    max-height: 92vh;\r\n    min-height: 100%;\r\n    width: 100%;\r\n    background-image: url('cover.JPG');\r\n    background-size: cover;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n}\r\n\r\n#headlineBox[_ngcontent-%COMP%] {\r\n    position: absolute;\r\n    left: 50%;\r\n    top: 96%;\r\n    transform: translate(-50%, -50%);\r\n    min-width: 30%;\r\n}\r\n\r\n#headline[_ngcontent-%COMP%] {\r\n    background-color: white;\r\n    font-family: standardfontBold;\r\n    display: flex;\r\n    justify-content: center;\r\n    font-size: 2.4em;\r\n    min-width: 40%;\r\n    min-height: 10px;\r\n}\r\n\r\n#watchtrailer[_ngcontent-%COMP%] {\r\n    font-family: standardfontBold;\r\n    position: absolute;\r\n    color: white;\r\n    font-size: 1.3em;\r\n    background-color: orange;\r\n    left: 50%;\r\n    top: 85%;\r\n    transform: translate(-50%, -50%);\r\n    transition: background-color, color, padding, font-size, width;\r\n    transition-delay: 0.2s;\r\n    transition-duration: 1s;\r\n    transition-timing-function: ease-in-out;\r\n    padding: 5px;\r\n}\r\n\r\n#watchtrailer[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\r\n    text-decoration: none;\r\n    color: gray;\r\n}\r\n\r\n#watchtrailer[_ngcontent-%COMP%]:hover {\r\n    background-color: white;\r\n    color: orange;\r\n    font-size: 2.0em;\r\n    min-width: 10%;\r\n    min-height: 10px;\r\n    padding: 10px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRyYWlsZXIuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGdCQUFnQjtJQUNoQixnQkFBZ0I7SUFDaEIsV0FBVztJQUNYLGtDQUFzRDtJQUN0RCxzQkFBc0I7SUFDdEIsMkJBQTJCO0lBQzNCLDRCQUE0QjtBQUNoQzs7QUFFQTtJQUNJLGtCQUFrQjtJQUNsQixTQUFTO0lBQ1QsUUFBUTtJQUVSLGdDQUFnQztJQUNoQyxjQUFjO0FBQ2xCOztBQUVBO0lBQ0ksdUJBQXVCO0lBQ3ZCLDZCQUE2QjtJQUM3QixhQUFhO0lBQ2IsdUJBQXVCO0lBQ3ZCLGdCQUFnQjtJQUNoQixjQUFjO0lBQ2QsZ0JBQWdCO0FBQ3BCOztBQUVBO0lBQ0ksNkJBQTZCO0lBQzdCLGtCQUFrQjtJQUNsQixZQUFZO0lBQ1osZ0JBQWdCO0lBQ2hCLHdCQUF3QjtJQUN4QixTQUFTO0lBQ1QsUUFBUTtJQUVSLGdDQUFnQztJQUNoQyw4REFBOEQ7SUFDOUQsc0JBQXNCO0lBQ3RCLHVCQUF1QjtJQUN2Qix1Q0FBdUM7SUFDdkMsWUFBWTtBQUNoQjs7QUFFQTtJQUNJLHFCQUFxQjtJQUNyQixXQUFXO0FBQ2Y7O0FBRUE7SUFDSSx1QkFBdUI7SUFDdkIsYUFBYTtJQUNiLGdCQUFnQjtJQUNoQixjQUFjO0lBQ2QsZ0JBQWdCO0lBQ2hCLGFBQWE7QUFDakIiLCJmaWxlIjoidHJhaWxlci5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiI3RyYWlsZXJCb3gge1xyXG4gICAgbWF4LWhlaWdodDogOTJ2aDtcclxuICAgIG1pbi1oZWlnaHQ6IDEwMCU7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnLi4vLi4vYXNzZXRzL2ltYWdlcy9jb3Zlci5KUEcnKTtcclxuICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7XHJcbiAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXG59XHJcblxyXG4jaGVhZGxpbmVCb3gge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogNTAlO1xyXG4gICAgdG9wOiA5NiU7XHJcbiAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xyXG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XHJcbiAgICBtaW4td2lkdGg6IDMwJTtcclxufVxyXG5cclxuI2hlYWRsaW5lIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xyXG4gICAgZm9udC1mYW1pbHk6IHN0YW5kYXJkZm9udEJvbGQ7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICBmb250LXNpemU6IDIuNGVtO1xyXG4gICAgbWluLXdpZHRoOiA0MCU7XHJcbiAgICBtaW4taGVpZ2h0OiAxMHB4O1xyXG59XHJcblxyXG4jd2F0Y2h0cmFpbGVyIHtcclxuICAgIGZvbnQtZmFtaWx5OiBzdGFuZGFyZGZvbnRCb2xkO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgY29sb3I6IHdoaXRlO1xyXG4gICAgZm9udC1zaXplOiAxLjNlbTtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IG9yYW5nZTtcclxuICAgIGxlZnQ6IDUwJTtcclxuICAgIHRvcDogODUlO1xyXG4gICAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcclxuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xyXG4gICAgdHJhbnNpdGlvbjogYmFja2dyb3VuZC1jb2xvciwgY29sb3IsIHBhZGRpbmcsIGZvbnQtc2l6ZSwgd2lkdGg7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAwLjJzO1xyXG4gICAgdHJhbnNpdGlvbi1kdXJhdGlvbjogMXM7XHJcbiAgICB0cmFuc2l0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZS1pbi1vdXQ7XHJcbiAgICBwYWRkaW5nOiA1cHg7XHJcbn1cclxuXHJcbiN3YXRjaHRyYWlsZXIgYSB7XHJcbiAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XHJcbiAgICBjb2xvcjogZ3JheTtcclxufVxyXG5cclxuI3dhdGNodHJhaWxlcjpob3ZlciB7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcclxuICAgIGNvbG9yOiBvcmFuZ2U7XHJcbiAgICBmb250LXNpemU6IDIuMGVtO1xyXG4gICAgbWluLXdpZHRoOiAxMCU7XHJcbiAgICBtaW4taGVpZ2h0OiAxMHB4O1xyXG4gICAgcGFkZGluZzogMTBweDtcclxufVxyXG5cclxuIl19 */"]
+        styles: ["#trailerBox[_ngcontent-%COMP%] {\r\n    max-height: 92vh;\r\n    min-height: 100%;\r\n    width: 100%;\r\n    background-image: url('LIM_Plakat_Edited_1_1.png');\r\n    background-size: cover;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n}\r\n\r\n#headlineBox[_ngcontent-%COMP%] {\r\n    position: absolute;\r\n    left: 50%;\r\n    top: 96%;\r\n    transform: translate(-50%, -50%);\r\n    min-width: 30%;\r\n}\r\n\r\n#headline[_ngcontent-%COMP%] {\r\n    background-color: white;\r\n    font-family: standardfontBold;\r\n    display: flex;\r\n    justify-content: center;\r\n    font-size: 2.4em;\r\n    min-width: 40%;\r\n    min-height: 10px;\r\n}\r\n\r\n#watchtrailer[_ngcontent-%COMP%] {\r\n    font-family: standardfontBold;\r\n    position: absolute;\r\n    color: white;\r\n    font-size: 1.3em;\r\n    background-color: #6a0098;\r\n    left: 50%;\r\n    top: 85%;\r\n    transform: translate(-50%, -50%);\r\n    transition: background-color, color, padding, font-size, width;\r\n    transition-delay: 0.2s;\r\n    transition-duration: 1s;\r\n    transition-timing-function: ease-in-out;\r\n    padding: 5px;\r\n}\r\n\r\n#watchtrailer[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\r\n    text-decoration: none;\r\n    color: white;\r\n}\r\n\r\n#watchtrailer[_ngcontent-%COMP%]:hover {\r\n    background-color: #6a0098;\r\n    color: white;\r\n    font-size: 2.0em;\r\n    padding: 10px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRyYWlsZXIuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGdCQUFnQjtJQUNoQixnQkFBZ0I7SUFDaEIsV0FBVztJQUNYLGtEQUFzRTtJQUN0RSxzQkFBc0I7SUFDdEIsMkJBQTJCO0lBQzNCLDRCQUE0QjtBQUNoQzs7QUFFQTtJQUNJLGtCQUFrQjtJQUNsQixTQUFTO0lBQ1QsUUFBUTtJQUVSLGdDQUFnQztJQUNoQyxjQUFjO0FBQ2xCOztBQUVBO0lBQ0ksdUJBQXVCO0lBQ3ZCLDZCQUE2QjtJQUM3QixhQUFhO0lBQ2IsdUJBQXVCO0lBQ3ZCLGdCQUFnQjtJQUNoQixjQUFjO0lBQ2QsZ0JBQWdCO0FBQ3BCOztBQUVBO0lBQ0ksNkJBQTZCO0lBQzdCLGtCQUFrQjtJQUNsQixZQUFZO0lBQ1osZ0JBQWdCO0lBQ2hCLHlCQUF5QjtJQUN6QixTQUFTO0lBQ1QsUUFBUTtJQUVSLGdDQUFnQztJQUNoQyw4REFBOEQ7SUFDOUQsc0JBQXNCO0lBQ3RCLHVCQUF1QjtJQUN2Qix1Q0FBdUM7SUFDdkMsWUFBWTtBQUNoQjs7QUFFQTtJQUNJLHFCQUFxQjtJQUNyQixZQUFZO0FBQ2hCOztBQUVBO0lBQ0kseUJBQXlCO0lBQ3pCLFlBQVk7SUFDWixnQkFBZ0I7SUFDaEIsYUFBYTtBQUNqQiIsImZpbGUiOiJ0cmFpbGVyLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjdHJhaWxlckJveCB7XHJcbiAgICBtYXgtaGVpZ2h0OiA5MnZoO1xyXG4gICAgbWluLWhlaWdodDogMTAwJTtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCcuLi8uLi9hc3NldHMvaW1hZ2VzL0xJTV9QbGFrYXRfRWRpdGVkXzFfMS5wbmcnKTtcclxuICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XHJcbiAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXI7XHJcbiAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXG59XHJcblxyXG4jaGVhZGxpbmVCb3gge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogNTAlO1xyXG4gICAgdG9wOiA5NiU7XHJcbiAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xyXG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XHJcbiAgICBtaW4td2lkdGg6IDMwJTtcclxufVxyXG5cclxuI2hlYWRsaW5lIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xyXG4gICAgZm9udC1mYW1pbHk6IHN0YW5kYXJkZm9udEJvbGQ7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICBmb250LXNpemU6IDIuNGVtO1xyXG4gICAgbWluLXdpZHRoOiA0MCU7XHJcbiAgICBtaW4taGVpZ2h0OiAxMHB4O1xyXG59XHJcblxyXG4jd2F0Y2h0cmFpbGVyIHtcclxuICAgIGZvbnQtZmFtaWx5OiBzdGFuZGFyZGZvbnRCb2xkO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgY29sb3I6IHdoaXRlO1xyXG4gICAgZm9udC1zaXplOiAxLjNlbTtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICM2YTAwOTg7XHJcbiAgICBsZWZ0OiA1MCU7XHJcbiAgICB0b3A6IDg1JTtcclxuICAgIC13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XHJcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcclxuICAgIHRyYW5zaXRpb246IGJhY2tncm91bmQtY29sb3IsIGNvbG9yLCBwYWRkaW5nLCBmb250LXNpemUsIHdpZHRoO1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMC4ycztcclxuICAgIHRyYW5zaXRpb24tZHVyYXRpb246IDFzO1xyXG4gICAgdHJhbnNpdGlvbi10aW1pbmctZnVuY3Rpb246IGVhc2UtaW4tb3V0O1xyXG4gICAgcGFkZGluZzogNXB4O1xyXG59XHJcblxyXG4jd2F0Y2h0cmFpbGVyIGEge1xyXG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgY29sb3I6IHdoaXRlO1xyXG59XHJcblxyXG4jd2F0Y2h0cmFpbGVyOmhvdmVyIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICM2YTAwOTg7XHJcbiAgICBjb2xvcjogd2hpdGU7XHJcbiAgICBmb250LXNpemU6IDIuMGVtO1xyXG4gICAgcGFkZGluZzogMTBweDtcclxufVxyXG5cclxuIl19 */"]
       });
       /***/
     },
@@ -1312,86 +1206,90 @@
       NavComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
         type: NavComponent,
         selectors: [["app-nav"]],
-        decls: 24,
+        decls: 25,
         vars: 0,
-        consts: [["id", "navbox"], ["id", "logo"], ["src", "assets/images/gaia.png", "height", "100px", "width", "auto", "alt", "logo", "id", "logoimg"], ["id", "download"], ["href", "#downloadContainerHeadline"], ["id", "story"], ["href", "#storyContainer"], ["id", "team"], ["href", "#teamContainer"], ["id", "medien"], ["href", "#medienBox"], ["id", "entstehung"], ["href", "#entstehungContainer"]],
+        consts: [["id", "navbox"], ["id", "logo"], ["href", "#trailerBox"], ["src", "assets/images/gaia.png", "height", "100px", "width", "auto", "alt", "logo", "id", "logoimg"], ["id", "download"], ["href", "#downloadContainerHeadline"], ["id", "story"], ["href", "#storyContainer"], ["id", "team"], ["href", "#teamContainer"], ["id", "medien"], ["href", "#medienBox"], ["id", "entstehung"], ["href", "#entstehungContainer"]],
         template: function NavComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 2);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "a", 2);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 3);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "a", 4);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, "Download");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "img", 3);
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 5);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 4);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "a", 6);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "a", 5);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "Story");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "div", 7);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "a", 8);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Team");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Download");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 9);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 6);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "a", 10);
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "a", 7);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "Medien");
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 11);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "a", 12);
-
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Entstehung");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "Story");
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 8);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "a", 9);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Team");
+
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "app-trailer");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "app-download");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 10);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "app-medien");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "a", 11);
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "app-story");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Medien");
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "app-team");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "app-entstehung");
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 12);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "a", 13);
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Entstehung");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "app-trailer");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "app-download");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "app-medien");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "app-story");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "app-team");
+
+            _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "app-entstehung");
           }
         },
         directives: [_trailer_trailer_component__WEBPACK_IMPORTED_MODULE_1__["TrailerComponent"], _download_download_component__WEBPACK_IMPORTED_MODULE_2__["DownloadComponent"], _medien_medien_component__WEBPACK_IMPORTED_MODULE_3__["MedienComponent"], _story_story_component__WEBPACK_IMPORTED_MODULE_4__["StoryComponent"], _team_team_component__WEBPACK_IMPORTED_MODULE_5__["TeamComponent"], _entstehung_entstehung_component__WEBPACK_IMPORTED_MODULE_6__["EntstehungComponent"]],
-        styles: ["#navbox[_ngcontent-%COMP%] {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  background-color: #2a2b2f;\r\n  //flex-wrap: wrap;\r\n  max-height: 18vh;\r\n  min-height: 13%;\r\n  min-width: 100%;\r\n  position: fixed;\r\n  z-index: 3;\r\n}\r\n\r\n#navbox[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\r\n  text-decoration: none;\r\n  color: white;\r\n  font-family: standardfontBold;\r\n  font-size: 1.5em;\r\n}\r\n\r\n#logo[_ngcontent-%COMP%] {\r\n  margin-left:7px;\r\n}\r\n\r\n#entstehung[_ngcontent-%COMP%]{\r\n  margin-right: 30px;\r\n}\r\n\r\n#logoimg[_ngcontent-%COMP%] {\r\n  padding: 7px 0px 7px 0px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5hdi5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsYUFBYTtFQUNiLDhCQUE4QjtFQUM5QixtQkFBbUI7RUFDbkIseUJBQXlCO0VBQ3pCLGlCQUFpQjtFQUNqQixnQkFBZ0I7RUFDaEIsZUFBZTtFQUNmLGVBQWU7RUFDZixlQUFlO0VBQ2YsVUFBVTtBQUNaOztBQUVBO0VBQ0UscUJBQXFCO0VBQ3JCLFlBQVk7RUFDWiw2QkFBNkI7RUFDN0IsZ0JBQWdCO0FBQ2xCOztBQUVBO0VBQ0UsZUFBZTtBQUNqQjs7QUFDQTtFQUNFLGtCQUFrQjtBQUNwQjs7QUFFQTtFQUNFLHdCQUF3QjtBQUMxQiIsImZpbGUiOiJuYXYuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIiNuYXZib3gge1xyXG4gIGRpc3BsYXk6IGZsZXg7XHJcbiAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogIzJhMmIyZjtcclxuICAvL2ZsZXgtd3JhcDogd3JhcDtcclxuICBtYXgtaGVpZ2h0OiAxOHZoO1xyXG4gIG1pbi1oZWlnaHQ6IDEzJTtcclxuICBtaW4td2lkdGg6IDEwMCU7XHJcbiAgcG9zaXRpb246IGZpeGVkO1xyXG4gIHotaW5kZXg6IDM7XHJcbn1cclxuXHJcbiNuYXZib3ggYSB7XHJcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gIGNvbG9yOiB3aGl0ZTtcclxuICBmb250LWZhbWlseTogc3RhbmRhcmRmb250Qm9sZDtcclxuICBmb250LXNpemU6IDEuNWVtO1xyXG59XHJcblxyXG4jbG9nbyB7XHJcbiAgbWFyZ2luLWxlZnQ6N3B4O1xyXG59XHJcbiNlbnRzdGVodW5ne1xyXG4gIG1hcmdpbi1yaWdodDogMzBweDtcclxufVxyXG5cclxuI2xvZ29pbWcge1xyXG4gIHBhZGRpbmc6IDdweCAwcHggN3B4IDBweDtcclxufVxyXG4iXX0= */"]
+        styles: ["#navbox[_ngcontent-%COMP%] {\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    background-color: #2a2b2f;\r\n    flex-wrap: wrap;\r\n    min-height: 13%;\r\n    min-width: 100%;\r\n    position: fixed;\r\n    z-index: 3;\r\n}\r\n\r\n#navbox[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\r\n    text-decoration: none;\r\n    color: white;\r\n    font-family: standardfontBold;\r\n    font-size: 1.5em;\r\n}\r\n\r\n#logo[_ngcontent-%COMP%] {\r\n    margin-left: 20px;\r\n}\r\n\r\n#entstehung[_ngcontent-%COMP%] {\r\n    margin-right: 30px;\r\n}\r\n\r\n#logoimg[_ngcontent-%COMP%] {\r\n    padding: 7px 0px 7px 0px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5hdi5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksYUFBYTtJQUNiLDhCQUE4QjtJQUM5QixtQkFBbUI7SUFDbkIseUJBQXlCO0lBQ3pCLGVBQWU7SUFDZixlQUFlO0lBQ2YsZUFBZTtJQUNmLGVBQWU7SUFDZixVQUFVO0FBQ2Q7O0FBRUE7SUFDSSxxQkFBcUI7SUFDckIsWUFBWTtJQUNaLDZCQUE2QjtJQUM3QixnQkFBZ0I7QUFDcEI7O0FBRUE7SUFDSSxpQkFBaUI7QUFDckI7O0FBRUE7SUFDSSxrQkFBa0I7QUFDdEI7O0FBRUE7SUFDSSx3QkFBd0I7QUFDNUIiLCJmaWxlIjoibmF2LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjbmF2Ym94IHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47XHJcbiAgICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzJhMmIyZjtcclxuICAgIGZsZXgtd3JhcDogd3JhcDtcclxuICAgIG1pbi1oZWlnaHQ6IDEzJTtcclxuICAgIG1pbi13aWR0aDogMTAwJTtcclxuICAgIHBvc2l0aW9uOiBmaXhlZDtcclxuICAgIHotaW5kZXg6IDM7XHJcbn1cclxuXHJcbiNuYXZib3ggYSB7XHJcbiAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XHJcbiAgICBjb2xvcjogd2hpdGU7XHJcbiAgICBmb250LWZhbWlseTogc3RhbmRhcmRmb250Qm9sZDtcclxuICAgIGZvbnQtc2l6ZTogMS41ZW07XHJcbn1cclxuXHJcbiNsb2dvIHtcclxuICAgIG1hcmdpbi1sZWZ0OiAyMHB4O1xyXG59XHJcblxyXG4jZW50c3RlaHVuZyB7XHJcbiAgICBtYXJnaW4tcmlnaHQ6IDMwcHg7XHJcbn1cclxuXHJcbiNsb2dvaW1nIHtcclxuICAgIHBhZGRpbmc6IDdweCAwcHggN3B4IDBweDtcclxufVxyXG4iXX0= */"]
       });
       /***/
     },
@@ -2027,7 +1925,7 @@
           }
         },
         directives: [_fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_4__["FaIconComponent"]],
-        styles: ["#teamContainer[_ngcontent-%COMP%] {\r\n    min-height: 100%;\r\n    width: 100%;\r\n    display: flex;\r\n    justify-content: space-evenly;\r\n    align-items: center;\r\n    flex-wrap: wrap;\r\n}\r\n\r\n.teammember[_ngcontent-%COMP%] {\r\n    height: 50%;\r\n    width: 20%;\r\n    background-color: gray;\r\n}\r\n\r\n.teammemberprofil[_ngcontent-%COMP%] {\r\n    min-height: 60%;\r\n    width: 100%;\r\n    display: flex;\r\n    justify-content: space-evenly;\r\n    align-items: flex-end;\r\n\r\n}\r\n\r\n.teammemberprofil[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n    height: auto;\r\n    min-width: 70%;\r\n    margin-top: 4%\r\n}\r\n\r\n.teammemberprofil[_ngcontent-%COMP%]   fa-icon[_ngcontent-%COMP%] {\r\n    position: absolute;\r\n    font-size: 3em;\r\n    color: white;\r\n}\r\n\r\n.teammembername[_ngcontent-%COMP%] {\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n.teammembername[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\r\n    font-size: 1.7em;\r\n}\r\n\r\n.teammemberrolle[_ngcontent-%COMP%] {\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n.teammemberrolle[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\r\n    font-size: 1.5em;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRlYW0uY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGdCQUFnQjtJQUNoQixXQUFXO0lBQ1gsYUFBYTtJQUNiLDZCQUE2QjtJQUM3QixtQkFBbUI7SUFDbkIsZUFBZTtBQUNuQjs7QUFFQTtJQUNJLFdBQVc7SUFDWCxVQUFVO0lBQ1Ysc0JBQXNCO0FBQzFCOztBQUVBO0lBQ0ksZUFBZTtJQUNmLFdBQVc7SUFDWCxhQUFhO0lBQ2IsNkJBQTZCO0lBQzdCLHFCQUFxQjs7QUFFekI7O0FBRUE7SUFDSSxZQUFZO0lBQ1osY0FBYztJQUNkO0FBQ0o7O0FBRUE7SUFDSSxrQkFBa0I7SUFDbEIsY0FBYztJQUNkLFlBQVk7QUFDaEI7O0FBRUE7SUFDSSxhQUFhO0lBQ2IsdUJBQXVCO0FBQzNCOztBQUVBO0lBQ0ksZ0JBQWdCO0FBQ3BCOztBQUVBO0lBQ0ksYUFBYTtJQUNiLHVCQUF1QjtBQUMzQjs7QUFFQTtJQUNJLGdCQUFnQjtBQUNwQiIsImZpbGUiOiJ0ZWFtLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjdGVhbUNvbnRhaW5lciB7XHJcbiAgICBtaW4taGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6IDEwMCU7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1ldmVubHk7XHJcbiAgICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gICAgZmxleC13cmFwOiB3cmFwO1xyXG59XHJcblxyXG4udGVhbW1lbWJlciB7XHJcbiAgICBoZWlnaHQ6IDUwJTtcclxuICAgIHdpZHRoOiAyMCU7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBncmF5O1xyXG59XHJcblxyXG4udGVhbW1lbWJlcnByb2ZpbCB7XHJcbiAgICBtaW4taGVpZ2h0OiA2MCU7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWV2ZW5seTtcclxuICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDtcclxuXHJcbn1cclxuXHJcbi50ZWFtbWVtYmVycHJvZmlsIGltZyB7XHJcbiAgICBoZWlnaHQ6IGF1dG87XHJcbiAgICBtaW4td2lkdGg6IDcwJTtcclxuICAgIG1hcmdpbi10b3A6IDQlXHJcbn1cclxuXHJcbi50ZWFtbWVtYmVycHJvZmlsIGZhLWljb24ge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgZm9udC1zaXplOiAzZW07XHJcbiAgICBjb2xvcjogd2hpdGU7XHJcbn1cclxuXHJcbi50ZWFtbWVtYmVybmFtZSB7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbn1cclxuXHJcbi50ZWFtbWVtYmVybmFtZSBoMyB7XHJcbiAgICBmb250LXNpemU6IDEuN2VtO1xyXG59XHJcblxyXG4udGVhbW1lbWJlcnJvbGxlIHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxufVxyXG5cclxuLnRlYW1tZW1iZXJyb2xsZSBoMyB7XHJcbiAgICBmb250LXNpemU6IDEuNWVtO1xyXG59XHJcbiJdfQ== */"]
+        styles: ["#teamContainer[_ngcontent-%COMP%] {\r\n    min-height: 100%;\r\n    width: 100%;\r\n    display: flex;\r\n    justify-content: space-evenly;\r\n    align-items: center;\r\n    flex-wrap: wrap;\r\n}\r\n\r\n.teammember[_ngcontent-%COMP%] {\r\n    height: 50%;\r\n    width: 20%;\r\n    margin: 10px 0px 10px 0px;\r\n    background-color: gray;\r\n    flex: 1 1  500px;\r\n    flex: 0 1 350px;\r\n}\r\n\r\n.teammemberprofil[_ngcontent-%COMP%] {\r\n    min-height: 60%;\r\n    width: 100%;\r\n    display: flex;\r\n    justify-content: space-evenly;\r\n    align-items: flex-end;\r\n\r\n}\r\n\r\n.teammemberprofil[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n    height: auto;\r\n    min-width: 70%;\r\n    margin-top: 4%\r\n}\r\n\r\n.teammemberprofil[_ngcontent-%COMP%]   fa-icon[_ngcontent-%COMP%] {\r\n    position: absolute;\r\n    font-size: 3em;\r\n    color: white;\r\n}\r\n\r\n.teammembername[_ngcontent-%COMP%] {\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n.teammembername[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\r\n    font-size: 1.7em;\r\n}\r\n\r\n.teammemberrolle[_ngcontent-%COMP%] {\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n.teammemberrolle[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\r\n    font-size: 1.5em;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRlYW0uY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGdCQUFnQjtJQUNoQixXQUFXO0lBQ1gsYUFBYTtJQUNiLDZCQUE2QjtJQUM3QixtQkFBbUI7SUFDbkIsZUFBZTtBQUNuQjs7QUFFQTtJQUNJLFdBQVc7SUFDWCxVQUFVO0lBQ1YseUJBQXlCO0lBQ3pCLHNCQUFzQjtJQUN0QixnQkFBZ0I7SUFDaEIsZUFBZTtBQUNuQjs7QUFFQTtJQUNJLGVBQWU7SUFDZixXQUFXO0lBQ1gsYUFBYTtJQUNiLDZCQUE2QjtJQUM3QixxQkFBcUI7O0FBRXpCOztBQUVBO0lBQ0ksWUFBWTtJQUNaLGNBQWM7SUFDZDtBQUNKOztBQUVBO0lBQ0ksa0JBQWtCO0lBQ2xCLGNBQWM7SUFDZCxZQUFZO0FBQ2hCOztBQUVBO0lBQ0ksYUFBYTtJQUNiLHVCQUF1QjtBQUMzQjs7QUFFQTtJQUNJLGdCQUFnQjtBQUNwQjs7QUFFQTtJQUNJLGFBQWE7SUFDYix1QkFBdUI7QUFDM0I7O0FBRUE7SUFDSSxnQkFBZ0I7QUFDcEIiLCJmaWxlIjoidGVhbS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiI3RlYW1Db250YWluZXIge1xyXG4gICAgbWluLWhlaWdodDogMTAwJTtcclxuICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgZGlzcGxheTogZmxleDtcclxuICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtZXZlbmx5O1xyXG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcclxuICAgIGZsZXgtd3JhcDogd3JhcDtcclxufVxyXG5cclxuLnRlYW1tZW1iZXIge1xyXG4gICAgaGVpZ2h0OiA1MCU7XHJcbiAgICB3aWR0aDogMjAlO1xyXG4gICAgbWFyZ2luOiAxMHB4IDBweCAxMHB4IDBweDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IGdyYXk7XHJcbiAgICBmbGV4OiAxIDEgIDUwMHB4O1xyXG4gICAgZmxleDogMCAxIDM1MHB4O1xyXG59XHJcblxyXG4udGVhbW1lbWJlcnByb2ZpbCB7XHJcbiAgICBtaW4taGVpZ2h0OiA2MCU7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWV2ZW5seTtcclxuICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDtcclxuXHJcbn1cclxuXHJcbi50ZWFtbWVtYmVycHJvZmlsIGltZyB7XHJcbiAgICBoZWlnaHQ6IGF1dG87XHJcbiAgICBtaW4td2lkdGg6IDcwJTtcclxuICAgIG1hcmdpbi10b3A6IDQlXHJcbn1cclxuXHJcbi50ZWFtbWVtYmVycHJvZmlsIGZhLWljb24ge1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgZm9udC1zaXplOiAzZW07XHJcbiAgICBjb2xvcjogd2hpdGU7XHJcbn1cclxuXHJcbi50ZWFtbWVtYmVybmFtZSB7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbn1cclxuXHJcbi50ZWFtbWVtYmVybmFtZSBoMyB7XHJcbiAgICBmb250LXNpemU6IDEuN2VtO1xyXG59XHJcblxyXG4udGVhbW1lbWJlcnJvbGxlIHtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxufVxyXG5cclxuLnRlYW1tZW1iZXJyb2xsZSBoMyB7XHJcbiAgICBmb250LXNpemU6IDEuNWVtO1xyXG59XHJcbiJdfQ== */"]
       });
       /***/
     },
