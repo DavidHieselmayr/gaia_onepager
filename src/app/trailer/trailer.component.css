@@ -2,7 +2,7 @@
     max-height: 92vh;
     min-height: 100%;
     width: 100%;
-    background-image: url('../../assets/images/cover.JPG');
+    background-image: url('../../assets/images/LIM_Plakat_Edited_1_1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@
     position: absolute;
     color: white;
     font-size: 1.3em;
-    background-color: orange;
+    background-color: #6a0098;
     left: 50%;
     top: 85%;
     -webkit-transform: translate(-50%, -50%);
@@ -46,15 +46,13 @@
 
 #watchtrailer a {
     text-decoration: none;
-    color: gray;
+    color: white;
 }
 
 #watchtrailer:hover {
-    background-color: white;
-    color: orange;
+    background-color: #6a0098;
+    color: white;
     font-size: 2.0em;
-    min-width: 10%;
-    min-height: 10px;
     padding: 10px;
 }
 
