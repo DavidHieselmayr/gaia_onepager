@@ -34,7 +34,7 @@
     font-size: 1.3em;
     background-color: #6a0098;
     left: 50%;
-    top: 85%;
+    top: 80%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     transition: background-color, color, padding, font-size, width;

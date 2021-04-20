@@ -42,7 +42,7 @@ export class TeamComponent implements OnInit {
         {
             id: 3,
             name: 'Florian Beckerle',
-            beschreibung: 'implo',
+            beschreibung: 'Semi-sentient being who inexplicably survives an extremely unhealty lifestyle.Usually found in confined spaces with low ligthing, at a computer terminal.',
             imgurl: 'assets/images/placeholder/images/Portrait_annete.webp'
         }
     ];
